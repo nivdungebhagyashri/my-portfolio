@@ -13,8 +13,9 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
-                    <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
+                    <p>I'd call my combination of conceptual and user interface skills plug and play. You get code that developers can easily plug into and products that end users can actually play with.</p>
+                    <p>Being pragmatic about both the end user experience and the programmer codebase experience, I usually work closely with the product owner, the design team and dev team lead on the system at hand. Lastly, I don't limit myself to hands-on coding alone and have been enjoying mentorship/pair-coding and being involved in hiring, getting fellow developers excited about working with me.</p>
+                    <p>A place that I'd be proud to be a part of? Any environment with decisive visionaries where creativity and autonomy is encouraged.</p>
                     </div>
                 </div>
                 </div>
@@ -38,7 +39,8 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <p>I have experience building websites using JavaScript,React,HTML,CSS </p>
+                    <p>In addition, I have experience with a variety of frameworks, libraries, and tools including: React, Angular, Redux, Node.js, MySQL, MongoDB, jQuery, Bootstrap</p>
                 </div>
                 </div>
             </div>
@@ -50,6 +52,7 @@ export default class About extends Component {
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
                     <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <p>Javascript Design Patterns </p>
                 </div>
                 </div>
             </div>
@@ -59,8 +62,8 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <h3>UX Design</h3>
+                    <p>Completed my Master's degree with dual specialization, UX being one of them, I have good understanding of UI/UX design</p>
                 </div>
                 </div>
             </div>
